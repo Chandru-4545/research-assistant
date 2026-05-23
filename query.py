@@ -2,8 +2,7 @@ from google import genai
 import chromadb
 
 # Paste your Gemini API key here
-client = genai.Client(api_key="AIzaSyD6Gp6_ITw97J9tZjC42NFP5bO2URJDtTY")
-
+client = genai.Client(api_key="YOUR_GEMINI_API_KEY_HERE")
 def ask_question(question):
     if not question.strip():
         return "⚠️ Please enter a question."
