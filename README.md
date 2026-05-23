@@ -127,12 +127,6 @@ After testing, a chunk size of **500 tokens with 50-token overlap** gave the bes
 
 ---
 
-## 📹 Demo
-
-[▶️ Watch the demo video](https://your-loom-link-here.com)
-
----
-
 ## 📄 License
 
 MIT License — free to use and modify.
